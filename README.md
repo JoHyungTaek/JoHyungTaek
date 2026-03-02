@@ -12,21 +12,10 @@
 
 ### AI Engineer
 
-AI 모델을 연구로 끝내지 않고  
-**실제 서비스로 연결하는 엔지니어**입니다.
 
 </div>
 
----
 
-## 👨‍💻 About Me
-
-- ML 기반 검색 · 추천 시스템 설계 및 구현  
-- Transformer 기반 임베딩 및 벡터 검색 구조 설계  
-- FastAPI 모델 서빙 및 Spring Boot API 통합  
-- AWS 환경에서의 서비스 배포 및 운영 경험  
-
----
 
 ## 🚀 Projects
 
@@ -71,13 +60,12 @@ AI 모델을 연구로 끝내지 않고
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
----
 
-## 📊 GitHub Stats
+
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoHyungTaek&show_icons=true&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoHyungTaek&layout=compact" />
+
 
 </div>
