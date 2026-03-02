@@ -1,10 +1,10 @@
 <div align="center">
 
-# HyungTaek Cho  
-### AI Engineer (ML · Backend · MLOps)
+# HyungTaek Jo  
+### AI Engineer
 
-검색/추천 시스템과 AI 모델을  
-실제 서비스로 연결하는 개발을 합니다.
+AI 모델을 연구로 끝내지 않고  
+**실제 서비스로 연결하는 엔지니어**입니다.
 
 </div>
 
@@ -12,28 +12,62 @@
 
 ## 👨‍💻 About Me
 
-- ML 기반 검색·추천 시스템 설계 및 구현
-- FastAPI 모델 서빙 + Spring Boot API 연동
-- AWS 기반 실제 배포 및 운영 경험
-- RAG · 임베딩 튜닝 · 벡터 검색에 관심
+- ML 기반 검색 · 추천 시스템 설계 및 구현
+- Transformer 기반 임베딩 및 벡터 검색 구조 설계
+- FastAPI 모델 서빙 및 Spring Boot API 통합
+- AWS 환경에서의 서비스 배포 및 운영 경험
 
 ---
 
 ## 🚀 Projects
 
 | Project | Description |
-|----------|-------------|
-| 🎧 [Nurisori - AI Sound Platform](https://github.com/여기에실제링크) | BLIP + CLIP 기반 이미지-사운드 매칭 및 UCS 자동 분류 |
-| 🤖 [AI Chatbot Service](https://github.com/여기에링크) | RAG 기반 질의응답 시스템 |
-| 📊 [ML Experiment Repo](https://github.com/여기에링크) | 임베딩 모델 실험 및 성능 개선 |
+|----------|------------|
+| 🎧 [Nurisori](https://github.com/rlathwls03/ucs-ai-sound-platform) | AI 기반 한국 효과음원 [국제 표준 자동 변환] 및 검색·생성 플랫폼, 누리소리 |
+| 📚 [AI Book Manager](https://github.com/JoHyungTaek/ai-book-manager-repo) | AI 기능이 포함된 도서 관리 백엔드 서비스 |
 
-> 🔎 각 프로젝트 README에 기술 스택, 아키텍처, 상세 구현 내용이 정리되어 있습니다.
+> 각 Repository에서 아키텍처 및 상세 구현 내용을 확인할 수 있습니다.
 
 ---
 
-## 🧠 Tech Focus
+## 🧠 Tech Stack
 
-ML · Vector Search · FastAPI · Spring Boot · AWS · Docker
+### Language
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### ML / AI
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentence--Transformers-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BLIP-1E90FF?style=for-the-badge"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+</p>
+
+### Infra
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+---
+
+<div align="center">
+
+### "AI는 모델이 아니라 시스템이다."
+
+</div>
 
 ---
 
@@ -41,7 +75,7 @@ ML · Vector Search · FastAPI · Spring Boot · AWS · Docker
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=JoHyungTaek&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=JoHyungTaek&show_icons=true&hide_title=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoHyungTaek&layout=compact)
 
 </div>
