@@ -65,7 +65,7 @@ AI 모델을 연구로 끝내지 않고
 
 <div align="center">
 
-### "AI는 모델이 아니라 시스템이다."
+
 
 </div>
 
@@ -75,7 +75,6 @@ AI 모델을 연구로 끝내지 않고
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=JoHyungTaek&show_icons=true&hide_title=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoHyungTaek&layout=compact)
+
 
 </div>
