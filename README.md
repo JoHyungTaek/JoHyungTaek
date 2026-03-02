@@ -10,13 +10,6 @@ AI 모델을 연구로 끝내지 않고
 
 ---
 
-## 👨‍💻 About Me
-
-- ML 기반 검색 · 추천 시스템 설계 및 구현  
-- Transformer 기반 임베딩 및 벡터 검색 구조 설계  
-- FastAPI 모델 서빙 및 Spring Boot API 통합  
-- AWS 환경에서의 서비스 배포 및 운영 경험  
-
 ---
 
 ## 🚀 Projects
