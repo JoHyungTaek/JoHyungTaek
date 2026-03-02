@@ -12,10 +12,10 @@ AI 모델을 연구로 끝내지 않고
 
 ## 👨‍💻 About Me
 
-- ML 기반 검색 · 추천 시스템 설계 및 구현
-- Transformer 기반 임베딩 및 벡터 검색 구조 설계
-- FastAPI 모델 서빙 및 Spring Boot API 통합
-- AWS 환경에서의 서비스 배포 및 운영 경험
+- ML 기반 검색 · 추천 시스템 설계 및 구현  
+- Transformer 기반 임베딩 및 벡터 검색 구조 설계  
+- FastAPI 모델 서빙 및 Spring Boot API 통합  
+- AWS 환경에서의 서비스 배포 및 운영 경험  
 
 ---
 
@@ -23,7 +23,8 @@ AI 모델을 연구로 끝내지 않고
 
 | Project | Description |
 |----------|------------|
-| 🎧 [Nurisori](https://github.com/rlathwls03/ucs-ai-sound-platform) | AI 기반 한국 효과음원 [국제 표준 자동 변환] 및 검색·생성 플랫폼, 누리소리 |
+| 🎧 [Nurisori](https://github.com/rlathwls03/ucs-ai-sound-platform) | **Team Project** · AI 기반 한국 효과음원 국제 표준(UCS) 자동 변환 및 검색·생성 플랫폼 |
+| 🎓 [AI Teacher Agent](https://github.com/JoHyungTaek/ai-agent-project) | PPT 기반 자동 강의 생성 멀티모달 LLM Agent 시스템 |
 | 📚 [AI Book Manager](https://github.com/JoHyungTaek/ai-book-manager-repo) | AI 기능이 포함된 도서 관리 백엔드 서비스 |
 
 > 각 Repository에서 아키텍처 및 상세 구현 내용을 확인할 수 있습니다.
@@ -63,15 +64,7 @@ AI 모델을 연구로 끝내지 않고
 
 ---
 
-<div align="center">
 
-
-
-</div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
