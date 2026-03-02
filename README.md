@@ -1,6 +1,15 @@
 <div align="center">
 
-# HyungTaek Jo  
+<!-- 1) 헤더 배너 (capsule-render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=HyungTaek%20Jo&fontSize=44&fontAlignY=35&desc=AI%20Engineer%20·%20ML%20%2F%20Backend%20%2F%20MLOps&descAlignY=58" />
+
+<!-- 2) 타이핑 효과 (readme-typing-svg) -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=520&lines=I+build+AI+systems+end-to-end.;From+Model+%E2%86%92+Serving+%E2%86%92+Deployment.;Search%2FRecommendation+%7C+LLM+Agent+%7C+MLOps" alt="Typing SVG" />
+</a>
+
+<br/>
+
 ### AI Engineer
 
 AI 모델을 연구로 끝내지 않고  
@@ -8,9 +17,16 @@ AI 모델을 연구로 끝내지 않고
 
 </div>
 
+---
 
+## 👨‍💻 About Me
 
+- ML 기반 검색 · 추천 시스템 설계 및 구현  
+- Transformer 기반 임베딩 및 벡터 검색 구조 설계  
+- FastAPI 모델 서빙 및 Spring Boot API 통합  
+- AWS 환경에서의 서비스 배포 및 운영 경험  
 
+---
 
 ## 🚀 Projects
 
@@ -57,10 +73,11 @@ AI 모델을 연구로 끝내지 않고
 
 ---
 
-
+## 📊 GitHub Stats
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=JoHyungTaek&show_icons=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoHyungTaek&layout=compact" />
 
 </div>
