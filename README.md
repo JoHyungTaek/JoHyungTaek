@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1) 헤더 배너 (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=170&section=header&text=HyungTaek%20Jo&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20ML%20%2F%20%20%2F%20&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=170&section=header&text=HyungTaek%20Jo&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20%20%2F%20%20%2F%20&descAlignY=58&descAlign=50&animation=fadeIn" />
 
 
 
