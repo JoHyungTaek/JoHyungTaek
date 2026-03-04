@@ -1,12 +1,9 @@
 <div align="center">
 
 <!-- 1) 헤더 배너 (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=170&section=header&text=HyungTaek%20Jo&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20ML%20%2F%20Backend%20%2F%20MLOps&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=170&section=header&text=HyungTaek%20Jo&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20ML%20%2F%20%20%2F%20&descAlignY=58&descAlign=50&animation=fadeIn" />
 
-<!-- 2) 타이핑 효과 (readme-typing-svg) -->
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=560&lines=I+build+AI+systems+end-to-end.;From+Model+%E2%86%92+Serving+%E2%86%92+Deployment.;Search%2FRecommendation+%7C+LLM+Agent+%7C+MLOps" alt="Typing SVG" />
-</a>
+
 
 </div>
 
