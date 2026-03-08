@@ -5,10 +5,6 @@
 
 </div>
 
-
-
-</div>
-
 ---
 
 ## 🚀 Projects
@@ -20,6 +16,14 @@
 | 📚 [AI Book Manager](https://github.com/JoHyungTaek/ai-book-manager-repo) | AI 기능이 포함된 도서 관리 백엔드 서비스 |
 
 > 각 Repository에서 아키텍처 및 상세 구현 내용을 확인할 수 있습니다.
+
+---
+
+## 🏆 Awards
+
+| Award | Description |
+|-------|-------------|
+| 🥇 AIVLE Big Project 우수상 | KT AIVLE School 빅프로젝트 우수상 수상 |
 
 ---
 
