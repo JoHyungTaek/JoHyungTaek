@@ -11,7 +11,7 @@
 
 | Project | Description |
 |----------|------------|
-| 🎧 [Nurisori](https://github.com/rlathwls03/ucs-ai-sound-platform) | **Team Project** · AI 기반 한국 효과음원 국제 표준(UCS) 자동 변환 및 검색·생성 플랫폼 |
+| 🎧 [Nurisori](https://github.com/rlathwls03/ucs-ai-sound-platform) | AI 기반 한국 효과음원 국제 표준(UCS) 자동 변환 및 검색·생성 플랫폼 |
 | 🎓 [AI Teacher Agent](https://github.com/JoHyungTaek/ai-agent-project) | PPT 기반 자동 강의 생성 멀티모달 LLM Agent 시스템 |
 | 📚 [AI Book Manager](https://github.com/JoHyungTaek/ai-book-manager-repo) | AI 기능이 포함된 도서 관리 백엔드 서비스 |
 
