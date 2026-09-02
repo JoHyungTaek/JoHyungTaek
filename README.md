@@ -16,7 +16,6 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/circle415%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:circle415@naver.com)
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/circle415)
+
 
 </div>
